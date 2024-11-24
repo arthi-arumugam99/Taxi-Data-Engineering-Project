@@ -17,8 +17,8 @@ This repository showcases a **Data Engineering workflow** for processing **yello
 
 ## Data Architecture: ##
 
-![diagram-export-22-11-2024-04_48_52](https://github.com/user-attachments/assets/9775caf2-606a-4478-9343-45225a4ff684)
 
+![diagram-export-22-11-2024-04_48_52](https://github.com/user-attachments/assets/7cbbd0e9-0214-4684-a636-d8679b13826c)
 
 
 ## Project Objectives: ## 
@@ -87,10 +87,12 @@ After processing, the cleaned data was saved back to Google Cloud Storage in Par
 
 In this project, I used Python to visualise the processed yellow taxi trip data by connecting to Google BigQuery. Using libraries like Matplotlib and Pandas, I created various visualizations such as histograms to show the distribution of trip durations, scatter plots to explore the relationship between trip distance and fare amount, and bar charts to analyze the average tip amount by passenger count. These visualizations provided insights into patterns and trends in the data. Additionally, I connected Power BI to Google BigQuery to create interactive dashboards, where I could explore the data further with more advanced visualizations like trip counts, fare analysis, and tip distributions, helping to derive actionable insights from the data.<br>
 
-![Screenshot 2024-11-22 045854](https://github.com/user-attachments/assets/0be1b39e-3af0-4f88-b1c7-6b8af4fbf898)
+
+![Screenshot 2024-11-22 045854](https://github.com/user-attachments/assets/aef8ad10-f712-4d48-95e4-bcfe140df13c)
 
 
-![Screenshot 2024-11-24 133901](https://github.com/user-attachments/assets/f9189221-38c0-429f-9b62-6895d0e64f2c)
+
+![Screenshot 2024-11-24 133901](https://github.com/user-attachments/assets/34783ca5-e96b-43a8-9f98-924612b5086c)
 
 
 
