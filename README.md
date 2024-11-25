@@ -17,8 +17,8 @@ This repository showcases a **Data Engineering workflow** for processing **yello
 
 ## Data Architecture: ##
 
+![diagram-export-25-11-2024-11_43_44](https://github.com/user-attachments/assets/823e8788-54d2-41e3-ae8d-b8031cb930f3)
 
-![diagram-export-22-11-2024-04_48_52](https://github.com/user-attachments/assets/7cbbd0e9-0214-4684-a636-d8679b13826c)
 
 
 ## Project Objectives: ## 
